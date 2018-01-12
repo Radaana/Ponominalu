@@ -1,6 +1,6 @@
-Проект магазина досок для серфинга
+Тестовое задание для Ponominalu.ru
 ----------------------------
 
-https://radaana.github.io/Surfers/build/index.html
+https://radaana.github.io/Ponominalu/build/index.html 
 
 Автор: Леонидова Екатерина     
